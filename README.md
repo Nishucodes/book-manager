@@ -10,4 +10,4 @@ A Python project that demonstrates object-oriented programming concepts like:
 - Add page counts using `+` operator
 - Showcase clean OOP structure
 
-Created by **Mohit** 🚀  
+Created by **nishu** 🚀  
